@@ -3,7 +3,7 @@ Este arquivo contém todo tipo de auxilo ao desenvolvimento deste projeto.
 -- Repositórios remotos --
 
   https://github.com/tryber/sd-022-b-project-react-testing-library  (Projeto)
-  https://github.com/tryber/sd-022-b-project-react-testing-library/pull/??  (Meu pull)
+  https://github.com/tryber/sd-022-b-project-react-testing-library/pull/98  (Meu pull)
 
 -- Linter --
 
